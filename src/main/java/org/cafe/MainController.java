@@ -79,7 +79,7 @@ class MainController {
         }
     }
 
-    private AgentController createAgent(Class<?> clazz, String agentName) throws StaleProxyException {
+    public AgentController createAgent(Class<?> clazz, String agentName) throws StaleProxyException {
         return containerController.createNewAgent(
                 agentName,
                 clazz.getName(),

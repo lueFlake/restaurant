@@ -10,7 +10,6 @@ import org.cafe.configuration.JadeAgent;
 
 @JadeAgent(number = 5)
 public class TestAgent extends Agent {
-
     @Override
     protected void setup() {
         System.out.println("Hello from " + getAID().getName());

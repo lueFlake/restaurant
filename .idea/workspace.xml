@@ -4,15 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a59a4a-b367-4f9b-9e4e-3a22d4463a49" name="Changes" comment="test jade">
-      <change afterPath="$PROJECT_DIR$/src/main/libraries/jade.jar" afterDir="false" />
+    <list default="true" id="54a59a4a-b367-4f9b-9e4e-3a22d4463a49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/CookAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/DishAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/OrderAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/ProcessAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/SessionAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/SupervisorAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/VisitorAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/behaviour/OnePunchManAnime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/behaviour/SyslikBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/DishCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/EquipmentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/MenuDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/OperationProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/OperationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/ProcessOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/model/ProductType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/util/AgentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cafe/util/JsonParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cafe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cafe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cafe/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cafe/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cafe/agents/TestAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cafe/agents/TestAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +61,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2NKzRo8BrCkJFRv1itNTXnnDqBj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +77,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/msi/IdeaProjects/restaurant/src/main/java/org/cafe",
     "node.js.detected.package.eslint": "true",
@@ -60,8 +96,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\msi\IdeaProjects\restaurant\src\main\java\org\cafe" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\msi\IdeaProjects\restaurant\src\main\libraries" />
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="org.cafe.model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.cafe.model" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,23 +114,24 @@
       <workItem from="1679427558998" duration="481000" />
       <workItem from="1679428051874" duration="1714000" />
       <workItem from="1679431793495" duration="1937000" />
-      <workItem from="1679473640437" duration="4207000" />
+      <workItem from="1679473640437" duration="3384000" />
+      <workItem from="1679511721163" duration="4581000" />
+      <workItem from="1679559002132" duration="8231000" />
     </task>
-    <task id="LOCAL-00001" summary="test jade">
-      <created>1679477168118</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1679477168118</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test jade" />
-    <option name="LAST_COMMIT_MESSAGE" value="test jade" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
