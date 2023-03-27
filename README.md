@@ -23,3 +23,6 @@
 5) Супервайзер
 6) Процесс
 7) Повар
+----
+
+![image](https://user-images.githubusercontent.com/66753948/227817113-6db2d45a-6bbe-40c4-ab1e-d5bd5295b663.png)
